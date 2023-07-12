@@ -3,4 +3,5 @@
 #DreamCoding #React #CloneCoding
 
 ✔️ React concept<br>
-✔️ Development environment setting
+✔️ Development environment setting<br>
+✔️ Deep dive concept
