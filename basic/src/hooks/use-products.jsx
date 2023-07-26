@@ -6,6 +6,7 @@ export default function useProducts({ salesOnly }) {
   const [products, setProducts] = useState([]);
 
   useEffect(()=> {
+    console.log('fetching...')
     setLoading(true);
     setError(undefined);
     

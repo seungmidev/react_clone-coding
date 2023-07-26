@@ -2,13 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import AppRouter from './AppRouter';
+import AppQuery from './AppQuery';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <AppRouter />
-  </React.StrictMode>
+    <AppQuery />
 );
 
 // If you want to start measuring performance in your app, pass a function
